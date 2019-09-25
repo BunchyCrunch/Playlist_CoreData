@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC1955D2233BE6760000BE4D /* SongController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1955D1233BE6760000BE4D /* SongController.swift */; };
 		FCF21672233BCF3000C3D02F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF21671233BCF3000C3D02F /* AppDelegate.swift */; };
 		FCF21674233BCF3000C3D02F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF21673233BCF3000C3D02F /* SceneDelegate.swift */; };
 		FCF21676233BCF3000C3D02F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF21675233BCF3000C3D02F /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC1955D1233BE6760000BE4D /* SongController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongController.swift; sourceTree = "<group>"; };
 		FCF2166E233BCF3000C3D02F /* PlaylistCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlaylistCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCF21671233BCF3000C3D02F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FCF21673233BCF3000C3D02F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				FCF21692233BDF8000C3D02F /* PlaylistController.swift */,
+				FC1955D1233BE6760000BE4D /* SongController.swift */,
 				FCF21691233BDF4F00C3D02F /* Model */,
 				FCF21688233BD00E00C3D02F /* Resouces */,
 				FCF21675233BCF3000C3D02F /* ViewController.swift */,
@@ -173,6 +176,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC1955D2233BE6760000BE4D /* SongController.swift in Sources */,
 				FCF2168C233BD88300C3D02F /* CoreDataStack.swift in Sources */,
 				FCF21693233BDF8000C3D02F /* PlaylistController.swift in Sources */,
 				FCF21676233BCF3000C3D02F /* ViewController.swift in Sources */,
